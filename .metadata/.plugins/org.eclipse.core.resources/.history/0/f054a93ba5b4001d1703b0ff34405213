@@ -1,0 +1,5 @@
+package com.backendpractice.controller;
+
+public class GreetController {
+
+}
